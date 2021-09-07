@@ -10,6 +10,7 @@
 - 🎓 I'm a graduate on Computing
 - 👨‍💻 I'm currently working at improving a [music library](https://github.com/bulbicx/SDET-finalproj-team3) 
 - ❤ I'm passionate about travelling
+- 💡 My mind is a hub of ideas
 - 🔥 Interesting fact: I love to be surrounded by nature and let my mind taking off to anywhere. 
 - ⚡ Fun fact: I am scared of bees! but when I encounter them I always try to save them from any danger.
 - 💬 Ask me about anything
