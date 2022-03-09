@@ -8,8 +8,8 @@
 
 ### 🤵 About Me:
 - 🎓 I'm a graduate in Computing
-- 👨‍💻 I'm currently working at improving a [music library](https://github.com/bulbicx/Choonz_v2) 
-- 🌱 I’m currently studying to become a certified tester[(ISTQB)](https://www.istqb.org/certification-path-root/foundation-level-2018.html)
+- 👨‍💻 I'm currently working at a private company project 
+- 🌱 I’m a certified tester[(ISTQB)](https://www.istqb.org/certification-path-root/foundation-level-2018.html)
 - ❤ I'm passionate about travelling
 - 💡 My mind is a hub of ideas
 - 🔥 Interesting fact: I love to be surrounded by nature and let my mind taking off to anywhere. 
