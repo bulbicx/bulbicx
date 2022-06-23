@@ -1,5 +1,5 @@
 <div align="center">
-    <h2> Hey <img src="https://user-images.githubusercontent.com/56220535/132339343-60bc4146-e56b-49d0-be5d-30dd08cf73ce.gif" width="30px">, I'm Marco <img src="https://camo.githubusercontent.com/eff6d06962a561a00c761b67edaa3dcce718108731781eea93bbb21940ba556a/68747470733a2f2f656d6f6a692e67672f6173736574732f656d6f6a692f373333332d706172726f7464616e63652e676966" width="30"/></h2>
+    <h2> Hey <img src="https://user-images.githubusercontent.com/56220535/132339343-60bc4146-e56b-49d0-be5d-30dd08cf73ce.gif" width="10px">, I'm Marco <img src="https://camo.githubusercontent.com/eff6d06962a561a00c761b67edaa3dcce718108731781eea93bbb21940ba556a/68747470733a2f2f656d6f6a692e67672f6173736574732f656d6f6a692f373333332d706172726f7464616e63652e676966" width="30"/></h2>
 </div>
 
 <div align="center" width="400">
@@ -57,7 +57,7 @@
   <h3> 🤝🏻 &nbsp;Connect with Me</h3>
   <a href="https://www.linkedin.com/in/marco-castellana-baa59a188/"><img src="https://img.shields.io/badge/-Linkedin-05122A?style=flat&logo=linkedin&logoColor=187BCD" /></a>
   <a href="https://github.com/bulbicx"><img src="https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github" /></a>
-  <a href="https://www.instagram.com/arkanoid_mark_lon/?hl=en-gb"><img src="https://img.shields.io/badge/-Instagram-05122A?style=flat&logo=instagram" /></a>
+<!--   <a href="https://www.instagram.com/arkanoid_mark_lon/?hl=en-gb"><img src="https://img.shields.io/badge/-Instagram-05122A?style=flat&logo=instagram" /></a> -->
 </div>
 
 <!--
