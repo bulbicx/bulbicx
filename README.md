@@ -1,5 +1,5 @@
 <div align="center">
-    <h2> Hey <img src="https://user-images.githubusercontent.com/56220535/132339343-60bc4146-e56b-49d0-be5d-30dd08cf73ce.gif" width="10px">, I'm Marco <img src="https://camo.githubusercontent.com/eff6d06962a561a00c761b67edaa3dcce718108731781eea93bbb21940ba556a/68747470733a2f2f656d6f6a692e67672f6173736574732f656d6f6a692f373333332d706172726f7464616e63652e676966" width="30"/></h2>
+    <h2> Hey 👋, I'm Marco <img src="https://camo.githubusercontent.com/eff6d06962a561a00c761b67edaa3dcce718108731781eea93bbb21940ba556a/68747470733a2f2f656d6f6a692e67672f6173736574732f656d6f6a692f373333332d706172726f7464616e63652e676966" width="30"/></h2>
 </div>
 
 <div align="center" width="400">
